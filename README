@@ -1,0 +1,24 @@
+******************************************************************************
+* HW04: Inference in Bayes Nets
+* CS131 Summer 2022
+* README
+* Author: Valerie Zhang vzhang02
+******************************************************************************
+
+Program Purpose:
+----------------
+    The purpose of this program is to perform inference in a Bayes Net. The 
+    client enters a 
+
+    *This program is written in C++.
+
+Compile/run:
+-----------
+    Compile using:
+        make 
+    Run executable with:
+        ./BayesNet infoFile
+
+Notes:
+------
+    - uses g++ to compile
