@@ -1,5 +1,5 @@
 ###
-### Makefile for Bayes Net Inference Program
+### Makefile for Bayes Net Enumerative Inference Program
 ###
 ### Author: Valerie Zhang
 ###
