@@ -8,7 +8,9 @@
 Program Purpose:
 ----------------
     The purpose of this program is to perform inference in a Bayes Net. The 
-    client enters a 
+    client can enter a query with or without evidence, and the program will
+    give the probabilities of each value for the query variable. The client
+    can also choose when to quit the program.
 
     *This program is written in C++.
 
@@ -21,4 +23,4 @@ Compile/run:
 
 Notes:
 ------
-    - uses g++ to compile
+    - uses clang++ to compile
